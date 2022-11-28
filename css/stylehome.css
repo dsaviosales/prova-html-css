@@ -16,6 +16,7 @@ ul, li {
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     padding: 10px;
+    overflow: hidden;
    
 }
 li{

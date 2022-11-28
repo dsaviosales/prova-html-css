@@ -1,5 +1,6 @@
 h1{
     font-family: Arial, Helvetica, sans-serif  ;
+    
 }
 ul, li{
     background-color: #cf2e2e;
@@ -7,13 +8,15 @@ ul, li{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
+   
 }
 li{
-    
+  
     display: inline;
     margin: 0;
-    padding: 10px;
-    background-color: #cf2e2e;
+    float: right;
+ 
+   
 }
 img{
     width: 700px;

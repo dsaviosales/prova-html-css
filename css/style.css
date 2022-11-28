@@ -19,3 +19,14 @@ li{
  
    
 }
+#celular{
+width: 600px;
+float: left;
+margin-right: 80%;
+padding: 30px;
+}
+#textohome{
+width: 300px;
+margin-left: 200px;
+
+}

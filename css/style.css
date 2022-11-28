@@ -3,7 +3,7 @@ h1{
     
 }
 ul, li{
-    background-color: #cf2e2e;
+  
     list-style: none;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -12,9 +12,10 @@ ul, li{
 }
 li{
   
+    background-color: #cf2e2e;
     display: inline;
     margin: 0;
-    float: right;
+    float: left;
  
    
 }

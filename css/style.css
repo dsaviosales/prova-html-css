@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif  ;
+}
+ul{
+    background-color: #cf2e2e;
+    list-style: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+   
+
+}
+li{
+    display: inline;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #cf2e2e;
+}

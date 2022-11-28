@@ -1,0 +1,45 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+    
+}
+
+body {
+    height: 15%; 
+    width: 100%;
+ }
+
+ul, li {
+    background-color: rgb(207, 46, 46);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding: 10px;
+   
+}
+li{
+  
+    background-color: #cf2e2e;
+    display: inline;
+    margin: 0;
+    float: right;
+   
+}
+#home{
+    width: 45px;
+}
+
+#celular{
+width: 600px;
+float: left;
+margin-right: 80%;
+padding: 30px;
+}
+#textohome{
+    float: right;
+    margin-top: -500px;
+    margin-right: 1%;
+    width: 400px;
+
+}

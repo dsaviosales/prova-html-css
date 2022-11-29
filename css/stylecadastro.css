@@ -50,16 +50,9 @@ padding: 30px;
 }
 #area{
 border: 1px solid #cf2e2e;
-width: 400px;
+width: 450px;
 height: 550px;
 display: block;
-position: relative;
+margin-left: 55%;
 
-
-
-
-}
-form{
-    margin-left: 70%;
-    width: 500px;
 }

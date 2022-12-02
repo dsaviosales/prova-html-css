@@ -1,10 +1,21 @@
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;    
+    text-align: center;   
+    color:white; 
 }
 
 header{
-
+    background-color: #281aa5;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 687px;
+    text-decoration: none;
 }
 
 body {
@@ -26,14 +37,12 @@ li{
     background-color: #cf2e2e;
     display: inline;
     margin: 0;
-    float: right;
-    
+    float: right;   
    
 }
 #home{
     width: 45px;
 }
-
 
 #pig{
     width: 50px;
@@ -43,16 +52,47 @@ li{
 }
 
 #cartao{
-width: 600px;
+width: 400px;
 float: left;
-margin-right: 80%;
+margin-right: 400px;
 padding: 30px;
+margin-top: -50px;
 }
 #area{
 border: 1px solid #cf2e2e;
-width: 450px;
-height: 550px;
+width: 700px;
+height: 300px;
 display: block;
-margin-left: 55%;
+margin-left: 45%;
+margin-top: 50px;
+}
 
+.center-form{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    float: left;
+    width: 400px;
+    
+
+}
+
+#enviar{
+background-color: #04AA6D;
+border: none;
+color: white;
+padding: 16px 32px;
+text-decoration: none;
+margin: 4px 2px;
+cursor: pointer;
+}
+#resetar{
+    background-color: salmon;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
 }

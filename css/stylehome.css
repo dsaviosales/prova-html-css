@@ -1,10 +1,21 @@
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;    
+    text-align: center;   
+    color:white; 
 }
 
 header{
-
+    background-color: #281aa5;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 687px;
+    text-decoration: none;
 }
 
 body {
@@ -52,5 +63,4 @@ padding: 30px;
     height: 50px;
     float: left 22px;
   
-   
 }

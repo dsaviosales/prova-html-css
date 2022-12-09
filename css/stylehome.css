@@ -9,14 +9,33 @@ header{
     padding: 20px;
     text-align: center;
 }
-nav{
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
     float: left;
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 20px 687px;
+    padding: 14px 16px;
     text-decoration: none;
-}
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+/* nav{ */
+    /* float: left; */
+    /* display: block; */
+    /* color: #f2f2f2; */
+    /* text-align: center; */
+    /* padding: 20px 687px; */
+    /* text-decoration: none; */
+/* } */
 
 body {
     height: 15%; 
@@ -64,3 +83,19 @@ padding: 30px;
     float: left 22px;
   
 }
+.colunaesquerda {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  
+  .colunameio {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+    .colunadireita {
+      width: 100%;
+    }
+  

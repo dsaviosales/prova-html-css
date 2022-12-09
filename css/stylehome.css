@@ -98,4 +98,10 @@ padding: 30px;
     .colunadireita {
       width: 100%;
     }
+    
+    .rodape {
+        background-color: #F1F1F1;
+        text-align: center;
+        padding: 10px;
+      }
   
